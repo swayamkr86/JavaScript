@@ -1,0 +1,13 @@
+body{
+    background-color: pink;
+}
+
+button{
+    background-color: blue;
+    color: white;
+}
+
+.myClass{
+    color: blue;
+    background-color: yellow;
+}
